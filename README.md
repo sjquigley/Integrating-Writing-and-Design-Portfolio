@@ -1,4 +1,4 @@
-# digital-media-portfolio
+# integrating-writing-and-design-portfolio
 
 Digital Media Portfolio designed for pedagological considerations, built on Bootstrap. Using this template, students learn the basics of bootstrap including css standards and cool tools like modal views. 
 
